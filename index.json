@@ -1,0 +1,11 @@
+{
+  "org": "spacetelescope",
+  "repo": "stcal",
+  "versions": [
+    {
+      "commit": "e0e2df9e58d17e8ff28db2cadbbc77fe840b19dc",
+      "tag": "",
+      "parsed_at": "2026-10-17T01:02:25.184423+00:00"
+    }
+  ]
+}
